@@ -4,7 +4,8 @@
   "author": "Michael Crawford",
   "private": true,
   "devDependencies": {
-    "typescript": "5.0.2"
+    "@tsconfig/node18": "^1.0.1",
+    "typescript": "^5.0.2"
   },
   "dependencies": {
     "rxjs": "^7.8.0"
