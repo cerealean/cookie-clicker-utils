@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "author": "Michael Crawford",
   "private": true,
-  "dependencies": [
-  ],
-  "devDependencies": [
+  "devDependencies": {
     "typescript": "5.0.2"
-  ]
+  }
 }
