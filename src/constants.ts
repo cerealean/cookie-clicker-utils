@@ -1,0 +1,1 @@
+export const BIG_COOKIE_ID = 'bigCookie';
