@@ -5,5 +5,8 @@
   "private": true,
   "devDependencies": {
     "typescript": "5.0.2"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.0"
   }
 }
